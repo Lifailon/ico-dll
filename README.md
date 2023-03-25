@@ -6,4 +6,6 @@ A small selection of icons for use in GUI forms.
 
 ⭐ Assembled from **Anolis Resourcer** (licensed under the GNU GPL v2)
 
-![Image alt](https://github.com/Lifailon/ico-dll/blob/rsa/icons-161.dll)
+### Icons Extract:
+
+![Image alt](https://github.com/Lifailon/ico-dll/blob/rsa/Icons-Extract.jpg)
