@@ -2,7 +2,7 @@
 
 🚀 Source free icons: **[icon-icons](https://icon-icons.com)**
 
-⭐ Assembled with **Anolis Resourcer** (licensed under the GNU GPL v2).
+⭐ Assembled with **Anolis Resourcer** (licensed under the GNU GPL v2)
 
 ### Icons Extract:
 
