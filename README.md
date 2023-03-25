@@ -1,7 +1,5 @@
 ## ico-dll
 
-A small selection of icons for use in GUI forms.
-
 🚀 Source free icons: **[icon-icons](https://icon-icons.com)**
 
 ⭐ Assembled with **Anolis Resourcer** (licensed under the GNU GPL v2).
