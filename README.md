@@ -1,6 +1,6 @@
 ## ico-dll
 
-A small selection of icons.
+A small selection of icons for use in GUI forms.
 
 🚀 Source icons: **[icon-icons](https://icon-icons.com)**
 
